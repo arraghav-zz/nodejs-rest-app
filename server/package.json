@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-restapp",
+  "version": "0.1.0",
+  "description": "nodejs-restapp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raghav",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.13.2",
+    "express": "^4.13.1",
+    "jwt-simple": "^0.3.0",
+    "mongoose": "^4.1.0",
+    "morgan": "^1.6.1"
+  }
+}
